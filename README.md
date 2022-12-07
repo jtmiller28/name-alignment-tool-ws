@@ -17,24 +17,24 @@ taxonomies:
       name: Bat Names 
     - id: col
       name: Catalogue of Life
-    - id: gbif
-      name: GBIF Backbone Taxonomy
-    - id: globi
-      name: GloBI Taxon Graph
-    - id: indexfungorum
-      name: Index Fungorum
-    - id: itis
-      name: Integrated Taxonomic Information System
-    - id: ncbi
-      name: NCBI Taxonomy
-    - id: ott
-      name: Open Tree of Life Taxonomy
-    - id: plazi
-      name: Plazi Treatments
-    - id: tpt
-      name: Terrestrial Parasite Tracker Taxonomies
-    - id: wfo
-      name: World of Flora Online
+   # - id: gbif
+   #   name: GBIF Backbone Taxonomy
+   # - id: globi
+   #   name: GloBI Taxon Graph
+   # - id: indexfungorum
+   #   name: Index Fungorum
+   # - id: itis
+   #   name: Integrated Taxonomic Information System
+   # - id: ncbi
+   #   name: NCBI Taxonomy
+   # - id: ott
+   #   name: Open Tree of Life Taxonomy
+   # - id: plazi
+   #   name: Plazi Treatments
+   # - id: tpt
+   #   name: Terrestrial Parasite Tracker Taxonomies
+   # - id: wfo
+   #   name: World of Flora Online
 ---
 
 # Name Alignment
